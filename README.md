@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prabhu-04
-- 👀 I’m interested in Web development and Machine Learning.
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on Web development
-- 📫 How to reach me sivaprabhu100@gmail.com
+- 👀 I’m interested in Devops.
+- 🌱 I’m currently learning Devops tools such as docker,kubernetes,terraform,ansible,jenkins and AWS
+- 💞️ I’m looking to collaborate on Devops projects.
+- 📫 reach me on sivaprabhu100@gmail.com
 
 <!---
 Prabhu-04/Prabhu-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
